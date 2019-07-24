@@ -1,0 +1,24 @@
+{
+	"resourcebox": {
+		"boxId": "BoxId",
+		"boxNo": "BoxNo",
+		"boxVolume": "BoxVolume",
+		"boxStatus": "BoxStatus",
+		"addnew" : "New ResourceBox",
+		"edit": "Edit ResourceBox",
+		"delete_confirm": "Are you sure to delete ResourceBox [ {0} ] ?",
+		"delete_success": "ResourceBox [ {0} ] has been delete successfully"
+	},
+	"resourcecar": {
+		"carId": "CarId",
+		"carNo": "CarNo",
+		"plateNum": "PlateNum",
+		"carType": "CarType",
+		"status": "Status",
+		"carDesc": "CarDesc",
+		"addnew" : "New ResourceCar",
+		"edit": "Edit ResourceCar",
+		"delete_confirm": "Are you sure to delete ResourceCar [ {0} ] ?",
+		"delete_success": "ResourceCar [ {0} ] has been delete successfully"
+	}
+}

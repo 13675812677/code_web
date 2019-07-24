@@ -1,0 +1,29 @@
+{
+	"organization":{
+		"addnew": "New Organization",
+		"edit": "Edit Organization",
+		"active": "Is Active",
+		"networkOrgName": "Network Organization Name",
+		"sdkUrl": "SDK URL",
+		"sdkAppId": "SDK App ID",
+		"sdkAppSecret": "SDK App Secret",
+		"delete_confirm": "Are you sure to delete organization [ {0} ]?",
+		"delete_success": "Organization [ {0} ] has been delete successfully"
+	},
+	"cfgcc":{
+		"addnew": "New Chaincode Configuration",
+		"edit": "Edit Chaincode Configuration",
+		"id": "ID",
+		"channelName":"Channel Name",
+		"chaincodeName":"Chaincode Name",
+		"delete_confirm": "Are you sure to delete the chosen chaincode configuration [ {0} ]?",
+		"delete_success": "Chaincode configuration [ {0} ] has been delete successfully"
+	},
+	"cfgentity": {
+		"addnew": "New Business Entity Configuration",
+		"edit": "Edit Business Entity Configuration",
+		"chaincode": "Chaincode",
+		"delete_confirm": "Are you sure to delete the chosen business entity configuration [ {0} ]?",
+		"delete_success": "Business entity configuration [ {0} ] has been delete successfully"
+	}
+}

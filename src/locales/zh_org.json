@@ -1,0 +1,29 @@
+{
+	"organization":{
+		"addnew": "新建组织机构",
+		"edit": "编辑组织机构",
+		"active": "是否激活",
+		"networkOrgName": "网络组织机构名称",
+		"sdkUrl": "SDK服务访问地址",
+		"sdkAppId": "SDK访问应用ID",
+		"sdkAppSecret": "SDK访问应用密钥",
+		"delete_confirm": "确实要永久删除组织机构 [ {0} ] 吗？",
+		"delete_success": "组织机构 [ {0} ] 已经被成功删除"
+	},
+	"cfgcc":{
+		"addnew": "新建智能合约配置",
+		"edit": "编辑智能合约配置",
+		"id": "唯一标识",
+		"channelName":"网络通道名称",
+		"chaincodeName":"智能合约名称",
+		"delete_confirm": "确实要永久删除智能合约配置 [ {0} ] 吗？",
+		"delete_success": "智能合约配置 [ {0} ] 已经被成功删除"
+	},
+	"cfgentity": {
+		"addnew": "新建业务对象配置",
+		"edit": "修改业务对象配置",
+		"chaincode": "智能合约",
+		"delete_confirm": "确实要永久删除业务对象配置 [ {0} ]?",
+		"delete_success": "业务对象配置 [ {0} ] 已被成功删除"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"resourcebox": {
+		"boxId": "主键id",
+		"boxNo": "箱子编号",
+		"boxVolume": "箱子体积",
+		"boxStatus": "箱子状态",
+		"addnew" : "新建冷藏箱",
+		"edit": "编辑冷藏箱",
+		"delete_confirm": "确实要永久性删除冷藏箱类 [ {0} ] 吗？",
+		"delete_success": "冷藏箱类 [ {0} ] 已被成功删除"
+	},
+	"resourcecar": {
+		"carId": "主键Id",
+		"carNo": "车辆编号",
+		"plateNum": "车牌号",
+		"carType": "冷藏车类型",
+		"status": "状态",
+		"carDesc": "备注",
+		"addnew" : "新建冷藏车",
+		"edit": "编辑冷藏车",
+		"delete_confirm": "确实要永久性删除冷藏车类 [ {0} ] 吗？",
+		"delete_success": "冷藏车类 [ {0} ] 已被成功删除"
+	}
+}
